@@ -6,8 +6,8 @@
 This is sold [here](https://1.envato.market/playtubeAndroid) :
 
 ## Requirements:
-PlayTube PHP Script v v2.1.1 or higher.
-C# Xamarin .Net sdk33
+<a href="https://1.envato.market/playtubePHP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="22" height="22"/>  PlayTube PHP Script v2.1.2 or higher. <br>
+<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="18" height="18"/>  C# Xamarin .Net sdk33 
 
 ## Contributing
 
@@ -17,4 +17,4 @@ to discuss what you would like to change.
 
 ## License
 
-Requiremnt [Envato Purchase code](https://1.envato.market/playtubeAndroid)
+Requirement [Envato Purchase code](https://1.envato.market/playtubeAndroid)
